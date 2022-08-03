@@ -1,0 +1,23 @@
+body{
+    background-color:firebrick;
+}
+
+h1{
+    text-align: center;
+    padding-bottom: 20px;
+    text-decoration: underline;
+    color: bisque;
+    font-family:fantasy;
+}
+.sign{
+    position: relative;
+    text-align:center;
+    padding: 14px;
+    font-family: cursive;
+    color: bisque;
+}
+
+.sign input{
+    border-radius: 10px;
+    border-color: aqua;
+}
